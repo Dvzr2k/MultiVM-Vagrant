@@ -21,7 +21,7 @@ This repository contains a Vagrant configuration for setting up a multi-VM envir
 2. Run the following commands to create and configure the virtual machine.
    ```sh
    git clone https://github.com/yourusername/MultiVm-Vagrant.git
-   cd MultiVm-Vagrant-main
+   cd MultiVm-Vagrant
    vagrant up
 3. Access to Vms
    ```sh
